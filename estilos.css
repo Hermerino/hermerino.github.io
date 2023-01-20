@@ -33,6 +33,8 @@ h1 {
    max-height: 0;
    overflow: hidden;
    transition: max-height 0.2s ease-out;
+   font-family: 'Open Sans', sans-serif;
+   @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
  }
 
  .collapsible:after {
