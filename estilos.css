@@ -13,17 +13,18 @@ h1 {
  }
 
  .collapsible {
+   .collapsible {
    background-color: rgb(67, 123, 127);
    color: rgb(255, 255, 255);
    cursor: pointer;
-   padding: 18px;
+   padding: 10px;
    width: 100%;
    border: none;
+   border-radius: 1%;
    text-align: left;
    outline: none;
-   font-family: 'Open Sans', sans-serif;
-   @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
    font-size: 15px;
+   font-family: 'Open Sans', sans-serif;
  }
 
  .active, .collapsible:hover {
