@@ -2,6 +2,9 @@ body {
    background-color: rgb(138, 202, 207);
 }
 
+hr {
+  border: dashed rgb(67, 123, 127);
+}
 
 h1 {
     text-align: center;
