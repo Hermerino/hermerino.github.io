@@ -12,7 +12,7 @@ h1 {
     @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
  }
 
- .collapsible {
+.collapsible {
    background-color: rgb(67, 123, 127);
    color: rgb(255, 255, 255);
    cursor: pointer;
