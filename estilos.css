@@ -12,6 +12,14 @@ h1 {
     @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
  }
 
+.centro{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 175px;
+  border-radius: 8px;
+}
+
 .collapsible {
    background-color: rgb(67, 123, 127);
    color: rgb(255, 255, 255);
